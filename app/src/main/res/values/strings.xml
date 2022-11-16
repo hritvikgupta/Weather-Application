@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Application Using Retrofit API</string>
+    <string-array name="lang">
+        <item> "Metrics" </item>
+        <item> "Imperial" </item>
+    </string-array>
+</resources>
